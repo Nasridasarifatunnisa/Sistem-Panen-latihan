@@ -1,0 +1,7 @@
+$ git checkout main
+Switched to branch 'main'
+$ git merge fitur-diskon -m "Merge branch 'fitur-diskon' ke main"
+Updating 59d3c76..16bea2e
+Fast-forward
+ panen.py | 7 +++++++
+ 1 file changed, 7 insertions(+)
